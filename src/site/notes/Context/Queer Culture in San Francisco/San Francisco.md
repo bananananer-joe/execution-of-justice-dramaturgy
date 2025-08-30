@@ -34,6 +34,10 @@ Prohibition killed a lot of gay culture, but as those laws began to get repealed
 Dishonorable discharges, known as "blue discharges" for the blue slips onto which a massive "H" was stamped, granted their holder a *persona non grata* status. Publicly outed, many discharges opted to stay in California for a better life.
 
 Gay culture flourished, and the government began to crack down. Homosexuality became the next public target after 
+
+###### Notable People & Places
+- [[Context/Organizations of Relevance/The Black Cat Cafe\|The Black Cat Cafe]] was a prominent SF gay bar that was heavily involved in activism and was influential in stopping the practice of closing down bars for simply serving homosexuals 
+- [[Context/Organizations of Relevance/The Black Cat Tavern\|The Black Cat Tavern]] was a LA bar, location of a 1967 police raid which led to one of the first organized LGBTQ protests 
 #### 1879 Time Capsule
 
 A time capsule had been buried in front of a statue in Washington Square with the instructions to open in 100 years. On April 22, 1979, [[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]] opened the capsule and revealed the contents[^5].  Amidst [temperence tracts](https://cdm17521.contentdm.oclc.org/digital/collection/temperance), newspapers, and photographs was a pamphlet titled *"The Great Geysers of California, and How to Reach Them"* by Laura De Force Gordon, with a note reading:

@@ -18,6 +18,7 @@ A
 1. [Homosexuality in America](http://books.google.com/books?id=qEEEAAAAMBAJ&pg=PA66) by Paul Welch. (Life 26, no. 26) June 26 1964 [Plaintext](https://mudcub.com/homophobia/homosexuality_in_america.htm)
 ###### Misc Links I Don't Want to Sort
 https://www.boxturtlebulletin.com/2016/06/26/73883
+https://www.sfgate.com/opinion/article/the-night-san-francisco-s-sense-of-gay-pride-2572316.php
 ###### Shilts, Randy: "The Mayor of Castro Street"
 ###### Stryker, Sam: "Gay by the Bay"
 
