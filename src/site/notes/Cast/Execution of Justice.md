@@ -14,26 +14,26 @@ What is important for the production to know?
 
 What matters about everyone?
 
-## San Francisco
+## History of Place
 
 [[Context/Queer Culture in San Francisco/San Francisco\|San Francisco]]
-## Cast
+## History of People
 
 ##### *Primary*
 
-[[Cast/Harvey Milk\|Harvey Milk]]
+[[Cast/Main Figures/Harvey Milk\|Harvey Milk]]
 
-George Moscone
+[[Cast/Main Figures/George Moscone\|George Moscone]]
 
-Dianne Feinstein
+[[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]]
 
 Dan White
 
 Mary Ann White
 
-Cop – what was the general cop sentimnent
+[[Cast/Main Figures/Police Force\|Cop]] – what was the general cop sentimnent
 
-Sister Boom Boom
+[[Cast/Main Figures/Sister Boom Boom\|Sister Boom Boom]]
 
 ##### *Chorus of Uncalled Witnesses*
 
@@ -41,7 +41,7 @@ Jim Denman (White’s jailer)
 
 Milk’s friend
 
-Gwenn Craig (Vice President of Harvey Milk Democratic Club)
+Gwenn Craig (Vice President of [[Context/Organizations of Relevance/Harvey Milk Democratic Club\|Harvey Milk Democratic Club]])
 
 City Supervisor Harry Britt (Milk’s successor)
 
