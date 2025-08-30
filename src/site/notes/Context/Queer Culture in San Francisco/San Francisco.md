@@ -27,7 +27,7 @@ Prohibition killed a lot of gay culture, but as those laws began to get repealed
 ###### Notable People & Places
 - Gertrude Stein and Alice B. Toklas, one of the most famous lesbian couples in history, both grew up in San Francisco.
 - Harry Hay, founder of the [[Context/Organizations of Relevance/Mattachine Society\|Mattachine Society]] was a openly gay Stanford student involved in the CA [[Terms/Opera & Theatre\|theatre]] circuits
-#### World War II
+### World War II
 
 **Perhaps the single biggest contributor to San Francisco's position as a queer mecca was [[World War II\|World War II]]. During WWII, gay and lesbian service members would be outed and dishonorably discharged for their sexualities and would find themselves in San Francisco.**
 
