@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/context/history-of-queer-organizing/"}
 ---
 
+To-do: a tl;dr timeline of queer organizing
 ### Early Global Organizing
 One of the earliest queer rights movements began in 1880s Germany and was put to an abrupt end by [[Events/WWII\|Hitler's Germany]]. The second largest population of minorities to be killed by the Gestapo, 
 
 ### Early SF Organizing
 
-
+Early organizing was low-key and mostly consisted of bars.
 #### After The Black Cat Cafe's Closure
 The [[Context/Organizations of Relevance/The Black Cat Cafe\|Black Cat Cafe's]] closure led to the formation of the [[Context/Organizations of Relevance/Society for Individual Rights\|Society for Individual Rights]] (SIR), a gay organizing effort that partnered with liberal church leaders to form the Council on Religion and the Homosexual. Working together with the [[Context/Organizations of Relevance/Mattachine Society\|Mattachine]], [[Context/Organizations of Relevance/Daughters of Bilitis\|DOB]], SIR, and other groups, they organized a [1964 New Years' Eve benefit](https://www.sfgate.com/opinion/article/the-night-san-francisco-s-sense-of-gay-pride-2572316.php). It was the first gay rights case the ACLU were involved in.
 
@@ -17,7 +18,11 @@ Organized in tandem with heterosexual ministers, the police presence opened the 
 
 The jury voted unanimously in the gays' favor, and led to the establishment of a gay liaison to the SFPD. The incident also empowered SIR to hold larger community events, and made it a political entity that local candidates began approaching for votes.
 #### Stonewall
-See [[Context/Queer Culture in New York/Stonewall\|Stonewall]] for a bigger picture.
+See [[Context/Queer Culture in New York/Stonewall\|Stonewall]] for a more in-depth picture.
 
-#### Post Stonewall
-Many radical groups began to form post-Stonewall.
+### Post Stonewall
+Many radical groups began to form post-Stonewall. It was an event that radicalized the queer community across the country.
+
+#### Senator McGovern's Presidential Campaign
+
+Senator George McGovern's presidential campaign had a seven-point gay The [[Context/Organizations of Relevance/Alice B. Toklas Memorial Democratic Club\|Toklas Club]] 

@@ -16,29 +16,29 @@ Although two-spirit and gender variance is not prevalent in all native tribes, i
 
 What the Europeans could not understand they decried, and called non-conformative individuals terms such as "berdache" (literally boy prostitute), "mujerado," "jolla," or "hermaphrodite."
 
-As California began to be more settled during the Gold Rush, records grow sparser. Victorian sensibilities about sex, an absence of records, and **homosociality** as the norm makes it hard to have a clear grasp on queer culture. Friendships were often between the same sex anyways, and many purely social behaviors would be considered homoerotic by today's lens. Additionally, social conventions made bisexuality the norm. Limited economic freedom and social expectations for women almost necessitated participating in traditional marriage. Financial freedom allowed gay men to have exclusive homosexuality before lesbians.
+As California began to be more settled during the Gold Rush, records grow sparser. Victorian sensibilities about sex, an absence of records, and homosociality as the norm makes it hard to have a clear grasp on queer culture. Friendships were often between the same sex anyways, and many purely social behaviors would be considered homoerotic by today's lens. Additionally, social conventions made bisexuality the norm. Limited economic freedom and social expectations for women almost necessitated participating in traditional marriage. Financial freedom allowed gay men to have exclusive homosexuality before lesbians.
 
 Crossdressing was also not stigmatized back then, nor was it restricted to drag, butch, or trans subcultures. Parades, costume balls, and vaudeville would commonly feature female impersonators, in the same way that racial impersonation was unobjectionable.
 
-In the mid-19th century, the brothels along Barbary Coast earned San Francisco the nickname "Sodom by the Sea," quickly replacing the earlier "Baghdad by the Bay." It's rumored that the [[Context/Queer Culture in San Francisco/Hanky code\|hanky code]] originated in all-male square dances held by miners[^4].
+In the mid-19th century, the brothels along Barbary Coast earned San Francisco the nickname "Sodom by the Sea," quickly replacing the earlier "Baghdad by the Bay." It's rumored that the [[Terms/Hanky code\|hanky code]] originated in all-male square dances held by miners[^4].
 
-Prohibition killed a lot of gay culture, but as those laws began to get repealed, [[Context/Gay Bars\|gay bars]] began to open up as private public spaces for queer socialization. The 1930s were also the beginning of [[Bathhouses\|bathhouse culture]] and [[Terms/Cruising\|cruising]].
+**Prohibition killed a lot of gay culture, but as those laws began to get repealed, [[Context/Gay Bars\|gay bars]] began to open up as private public spaces for queer socialization. The 1930s were also the beginning of [[Terms/Bathhouses\|bathhouse culture]] and [[Terms/Cruising\|cruising]].**
 
 ###### Notable People & Places
 - Gertrude Stein and Alice B. Toklas, one of the most famous lesbian couples in history, both grew up in San Francisco.
 - Harry Hay, founder of the [[Context/Organizations of Relevance/Mattachine Society\|Mattachine Society]] was a openly gay Stanford student involved in the CA [[Terms/Opera & Theatre\|theatre]] circuits
-### World War II
+### World War II Era
 
-**Perhaps the single biggest contributor to San Francisco's position as a queer mecca was [[World War II\|World War II]]. During WWII, gay and lesbian service members would be outed and dishonorably discharged for their sexualities and would find themselves in San Francisco.**
+**Perhaps the single biggest contributor to San Francisco's position as a queer mecca was [[Events/WWII\|World War II]]. During WWII, gay and lesbian service members would be outed and dishonorably discharged for their sexualities and would find themselves in San Francisco.**
 
 Dishonorable discharges, known as "blue discharges" for the blue slips onto which a massive "H" was stamped, granted their holder a *persona non grata* status. Publicly outed, many discharges opted to stay in California for a better life.
 
-Gay culture flourished, and the government began to crack down. Homosexuality became the next public target after 
+Gay culture flourished, and the government began to crack down. Homosexuality became the next public target.
 
 ###### Notable People & Places
 - [[Context/Organizations of Relevance/The Black Cat Cafe\|The Black Cat Cafe]] was a prominent SF gay bar that was heavily involved in activism and was influential in stopping the practice of closing down bars for simply serving homosexuals 
 - [[Context/Organizations of Relevance/The Black Cat Tavern\|The Black Cat Tavern]] was a LA bar, location of a 1967 police raid which led to one of the first organized LGBTQ protests 
-#### 1879 Time Capsule
+#### Opening of 1879 Time Capsule
 
 A time capsule had been buried in front of a statue in Washington Square with the instructions to open in 100 years. On April 22, 1979, [[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]] opened the capsule and revealed the contents[^5].  Amidst [temperence tracts](https://cdm17521.contentdm.oclc.org/digital/collection/temperance), newspapers, and photographs was a pamphlet titled *"The Great Geysers of California, and How to Reach Them"* by Laura De Force Gordon, with a note reading:
 

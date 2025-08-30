@@ -7,7 +7,7 @@ What is important for the production to know?
 - [[Context/Queer Culture in San Francisco/San Francisco\|San Francisco]] culture + history
 - State of queer rights in America
 - Queer culture in America + San Francisco
-	- [[Context/Queer Culture in San Francisco/Hanky code\|Hanky code]]
+	- [[Terms/Hanky code\|Hanky code]]
 - Harvey Milk’s vision + etc.
 - Information on each person and their real selves in history
 - Effects of the case
