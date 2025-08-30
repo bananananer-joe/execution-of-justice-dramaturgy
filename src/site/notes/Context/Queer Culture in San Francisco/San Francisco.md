@@ -4,7 +4,7 @@
 
 In 1964, Life magazine declared San Francisco as "The Gay Capital of the World." If it wasn't true then, it was certainly true by the time Execution of Justice takes place. A lot of reasons have led to its development as a queer mecca, and this page will give a short outline of the reasons why.
 
-#### Pre World War II Queerness in the Bay
+### Pre World War II Queerness in the Bay
 
 A founding myth of California talks about the Amazonian Queen Califia[^1][^2], and her name "had become a part of lesbian folklore by the 1970s." 
 
