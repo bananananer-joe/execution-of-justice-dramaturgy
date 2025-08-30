@@ -18,8 +18,14 @@ Interestingly enough, TIME mentions the 1963 statement by British Quakers that "
 
 ##### Early 70s
 
-Public parks also began to become
-##### Anita Bryant
+Public parks also began to become a target of heightened police presence. Decency laws were disproportionately applied to gay men who would come to public parks to meet up and have sex to avoid bar raids. By 1971, police in San Francisco were arresting an average of 2,800 gay men annually on charges of public sex. By contrast, only 63 arrests of the same charge were made in all of New York that same year[^6].
+
+As more and more people began to be out, the rates of hate crimes began to increase as well. By 1976, they were 10% of the city's homicide rate, and SFPD opened up a special investigative squad[^5]. Gay businesses (including bars, bathhouses and churches) were often bombed or the targets of arson.
+##### Anita Bryant & [[Context/Legislation/Proposition 6\|Proposition 6]]
+
+Anita Bryant, former Miss America, leads her Save the Children campaign. 
+
+
 
 [^1]: [[Arrangement Information/Bibliography#Life Magazine\|Life]] [Homosexuality in America](http://books.google.com/books?id=qEEEAAAAMBAJ&pg=PA66)
 
@@ -28,3 +34,7 @@ Public parks also began to become
 [^3]: Cited in https://www.boxturtlebulletin.com/2016/06/26/73883
 
 [^4]: [Guardian reflection on 50 years of the statement](https://www.theguardian.com/books/2013/sep/13/quakers-50-years-affirmation-gay-rights)
+
+[^5]: [[Arrangement Information/Bibliography#Stryker, Sam "Gay by the Bay"\|Stryker]] 77
+
+[^6]: [[Arrangement Information/Bibliography#Shilts, Randy "The Mayor of Castro Street"\|Shilts]] 62

@@ -28,7 +28,7 @@ After 15 years of fighting against the ABC, Stoumen finally conceded the fight. 
 
 It's closure led to the formation of the [[Context/Organizations of Relevance/Society for Individual Rights\|Society for Individual Rights]], a gay organizing effort that partnered with liberal church leaders to form the Council on Religion and the Homosexual. Working together with the Mattachine, DOB, SIR, and other groups, they organized a [1964 New Years' Eve benefit](https://www.sfgate.com/opinion/article/the-night-san-francisco-s-sense-of-gay-pride-2572316.php). It was the first gay rights case the ACLU were involved in, and led to a LGBTQ police liaison.
 
-*See[[Context/History of Queer Organizing#After The Black Cat Cafe's Closure\| here]] for more of the story after the closure* 
+*See[[The Meaty Stuff/San Francisco#After The Black Cat Cafe's Closure\|here]] for more of the story after the closure* 
 
 
 

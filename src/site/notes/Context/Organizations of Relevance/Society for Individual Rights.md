@@ -3,7 +3,7 @@
 ---
 
 
-Founded after [[Context/Organizations of Relevance/The Black Cat Cafe\|The Black Cat Cafe]] closed[^2], the SIR organized a [1964 New Years' Eve benefit](https://www.sfgate.com/opinion/article/the-night-san-francisco-s-sense-of-gay-pride-2572316.php) in tandem with local ministers (*see [[Context/History of Queer Organizing#After The Black Cat Cafe's Closure\|here for more]]*). After the benefit and its ensuing trial, their membership soared as they organized social dances for the gay community. Reaching 1,200 members by 1967 [^1], candidates for public office began visiting SIR meetings to campaign, starting with Jack Morrison.
+Founded after [[Context/Organizations of Relevance/The Black Cat Cafe\|The Black Cat Cafe]] closed[^2], the SIR organized a [1964 New Years' Eve benefit](https://www.sfgate.com/opinion/article/the-night-san-francisco-s-sense-of-gay-pride-2572316.php) in tandem with local ministers (*see [[The Meaty Stuff/San Francisco#After The Black Cat Cafe's Closure\|here for more]]*). After the benefit and its ensuing trial, their membership soared as they organized social dances for the gay community. Reaching 1,200 members by 1967 [^1], candidates for public office began visiting SIR meetings to campaign, starting with Jack Morrison.
 
 Support of the SIR was essential in [[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]]'s 1969 supervisor campaign.
 

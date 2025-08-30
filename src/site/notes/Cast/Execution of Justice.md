@@ -4,7 +4,7 @@
 
 What is important for the production to know?
 
-- [[Context/Queer Culture in San Francisco/San Francisco\|San Francisco]] culture + history
+- [[The Meaty Stuff/San Francisco\|San Francisco]] culture + history
 - State of queer rights in America
 - Queer culture in America + San Francisco
 	- [[Terms/Hanky code\|Hanky code]]
@@ -16,7 +16,7 @@ What matters about everyone?
 
 ## History of Place
 
-[[Context/Queer Culture in San Francisco/San Francisco\|San Francisco]]
+[[The Meaty Stuff/San Francisco\|San Francisco]]
 ## History of People
 
 ##### *Primary*
