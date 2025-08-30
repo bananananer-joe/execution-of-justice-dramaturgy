@@ -4,7 +4,7 @@
 
 In 1964, Life magazine declared San Francisco as "The Gay Capital of the World." If it wasn't true then, it was certainly true by the time Execution of Justice takes place. A lot of reasons have led to its development as a queer mecca, and this page will give a short outline of the reasons why.
 
-#### Pre World War II Queerness in the Bay
+### Pre World War II Queerness in the Bay
 
 A founding myth of California talks about the Amazonian Queen Califia[^1][^2], and her name "had become a part of lesbian folklore by the 1970s." 
 
@@ -22,12 +22,12 @@ Crossdressing was also not stigmatized back then, nor was it restricted to drag,
 
 In the mid-19th century, the brothels along Barbary Coast earned San Francisco the nickname "Sodom by the Sea," quickly replacing the earlier "Baghdad by the Bay." It's rumored that the [[Context/Queer Culture in San Francisco/Hanky code\|hanky code]] originated in all-male square dances held by miners[^4].
 
-Prohibition killed a lot of gay culture, but as those laws began to get repealed, [[Context/Gay Bars\|gay bars]] began to open up as private public spaces for queer socialization. The 1930s were also the beginning of [[Bathhouses\|bathhouse culture]] and [[Cruising\|cruising]].
+Prohibition killed a lot of gay culture, but as those laws began to get repealed, [[Context/Gay Bars\|gay bars]] began to open up as private public spaces for queer socialization. The 1930s were also the beginning of [[Bathhouses\|bathhouse culture]] and [[Terms/Cruising\|cruising]].
 
 ###### Notable People & Places
 - Gertrude Stein and Alice B. Toklas, one of the most famous lesbian couples in history, both grew up in San Francisco.
 - Harry Hay, founder of the [[Context/Organizations of Relevance/Mattachine Society\|Mattachine Society]] was a openly gay Stanford student involved in the CA [[Terms/Opera & Theatre\|theatre]] circuits
-#### World War II
+### World War II
 
 **Perhaps the single biggest contributor to San Francisco's position as a queer mecca was [[World War II\|World War II]]. During WWII, gay and lesbian service members would be outed and dishonorably discharged for their sexualities and would find themselves in San Francisco.**
 
@@ -36,7 +36,7 @@ Dishonorable discharges, known as "blue discharges" for the blue slips onto whic
 Gay culture flourished, and the government began to crack down. Homosexuality became the next public target after 
 #### 1879 Time Capsule
 
-A time capsule had been buried in front of a statue in Washington Square with the instructions to open in 100 years. On April 22, 1979, [[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]] opened the capsule and revealed the contents[^5].  Amidst [temperence tracts](https://cdm17521.contentdm.oclc.org/digital/collection/temperance), newspapers, and photographs was a pamphlet titled *The Great Geysers of California, and How to Reach Them* by Laura De Force Gordon.
+A time capsule had been buried in front of a statue in Washington Square with the instructions to open in 100 years. On April 22, 1979, [[Cast/Main Figures/Dianne Feinstein\|Dianne Feinstein]] opened the capsule and revealed the contents[^5].  Amidst [temperence tracts](https://cdm17521.contentdm.oclc.org/digital/collection/temperance), newspapers, and photographs was a pamphlet titled *"The Great Geysers of California, and How to Reach Them"* by Laura De Force Gordon, with a note reading:
 
 > *If this little book should see the light after its 100 years of entombment, I would like its readers to know that the author was a [[Terms/Lesbianism\|lover of her own sex]] and devoted the best years of her life in striving for the political equality and social and moral elevation of women.*
 
